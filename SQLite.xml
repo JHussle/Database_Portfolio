@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE items>
+<items>
+    <row>
+       <UserID>1</UserID>
+       <FirstName>Wesley</FirstName>
+       <LastName>Chambers</LastName>
+       <Birthplace>Orlando, Florida</Birthplace>
+       <CreatedAt>2020-10-20</CreatedAt>
+       <UpdatedAt>null</UpdatedAt>
+    </row>
+    <row>
+       <UserID>2</UserID>
+       <FirstName>Michael</FirstName>
+       <LastName>Jordan</LastName>
+       <Birthplace>Brooklyn, New York</Birthplace>
+       <CreatedAt>2020-10-20 15:07:36</CreatedAt>
+       <UpdatedAt>null</UpdatedAt>
+    </row>
+    <row>
+       <UserID>3</UserID>
+       <FirstName>James</FirstName>
+       <LastName>Brown</LastName>
+       <Birthplace>Barnwell, SC</Birthplace>
+       <CreatedAt>2020-10-20 15:08:11</CreatedAt>
+       <UpdatedAt>null</UpdatedAt>
+    </row>
+    <row>
+       <UserID>4</UserID>
+       <FirstName>Kobe</FirstName>
+       <LastName>Bryant</LastName>
+       <Birthplace>Philadelphia, PA</Birthplace>
+       <CreatedAt>2020-10-20</CreatedAt>
+       <UpdatedAt>null</UpdatedAt>
+    </row>
+    <row>
+       <UserID>5</UserID>
+       <FirstName>Shaquille</FirstName>
+       <LastName>ONeal</LastName>
+       <Birthplace>Newark, NJ</Birthplace>
+       <CreatedAt>2020-10-20</CreatedAt>
+       <UpdatedAt>null</UpdatedAt>
+    </row>
+    <row>
+       <UserID>6</UserID>
+       <FirstName>Earvin</FirstName>
+       <LastName>Johnson Jr</LastName>
+       <Birthplace>Lansing, MI</Birthplace>
+       <CreatedAt>2020-10-20</CreatedAt>
+       <UpdatedAt>null</UpdatedAt>
+    </row>
+    <row>
+       <UserID>7</UserID>
+       <FirstName>Kareem</FirstName>
+       <LastName>Abdul-Jabbar</LastName>
+       <Birthplace>Manhattan, NY</Birthplace>
+       <CreatedAt>2020-10-20</CreatedAt>
+       <UpdatedAt>null</UpdatedAt>
+    </row>
+    <row>
+       <UserID>8</UserID>
+       <FirstName>Wilt</FirstName>
+       <LastName>Chamberlain</LastName>
+       <Birthplace>Philadelphia, PA</Birthplace>
+       <CreatedAt>2020-10-20</CreatedAt>
+       <UpdatedAt>null</UpdatedAt>
+    </row>
+    <row>
+       <UserID>9</UserID>
+       <FirstName>Oscar</FirstName>
+       <LastName>Robertson</LastName>
+       <Birthplace>Charlotte, TN</Birthplace>
+       <CreatedAt>2020-10-20</CreatedAt>
+       <UpdatedAt>null</UpdatedAt>
+    </row>
+    <row>
+       <UserID>10</UserID>
+       <FirstName>Jerry</FirstName>
+       <LastName>West</LastName>
+       <Birthplace>Chelyan, WV</Birthplace>
+       <CreatedAt>2020-10-20</CreatedAt>
+       <UpdatedAt>null</UpdatedAt>
+    </row>
+    <row>
+       <UserID>11</UserID>
+       <FirstName>Elgin</FirstName>
+       <LastName>Baylor</LastName>
+       <Birthplace>Washington, DC</Birthplace>
+       <CreatedAt>2020-10-20</CreatedAt>
+       <UpdatedAt>null</UpdatedAt>
+    </row>
+    <row>
+       <UserID>12</UserID>
+       <FirstName>James</FirstName>
+       <LastName>Worthy</LastName>
+       <Birthplace>Gastonia, NC</Birthplace>
+       <CreatedAt>2020-10-20</CreatedAt>
+       <UpdatedAt>null</UpdatedAt>
+    </row>
+    <row>
+       <UserID>13</UserID>
+       <FirstName>Michael</FirstName>
+       <LastName>Cooper</LastName>
+       <Birthplace>Los Angeles, CA</Birthplace>
+       <CreatedAt>2020-10-20</CreatedAt>
+       <UpdatedAt>null</UpdatedAt>
+    </row>
+    <row>
+       <UserID>14</UserID>
+       <FirstName>George</FirstName>
+       <LastName>Mikan</LastName>
+       <Birthplace>Joliet, IL</Birthplace>
+       <CreatedAt>2020-10-20</CreatedAt>
+       <UpdatedAt>null</UpdatedAt>
+    </row>
+    <row>
+       <UserID>15</UserID>
+       <FirstName>Gail</FirstName>
+       <LastName>Goodrich</LastName>
+       <Birthplace>Los Angeles, CA</Birthplace>
+       <CreatedAt>2020-10-20</CreatedAt>
+       <UpdatedAt>null</UpdatedAt>
+    </row>
+</items>
